@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 120 150" role="img" aria-labelledby="title">
+  <title id="title">Seven Scents emblem</title>
+  <path d="M17 139V51C17 24 36 8 60 8s43 16 43 43v88" fill="none" stroke="#f7f1e8" stroke-width="9"/>
+  <path d="M43 139V106c0-12 8-21 17-21s17 9 17 21v33z" fill="#f7f1e8"/>
+  <path d="M55 81h10V69H55z" fill="#f7f1e8"/>
+  <path d="M63 69c-2-16 8-29 19-34 3 14-1 27-19 34z" fill="#ec6137"/>
+  <g fill="#f7f1e8"><ellipse cx="43" cy="57" rx="7" ry="14" transform="rotate(-38 43 57)"/><ellipse cx="58" cy="43" rx="7" ry="14" transform="rotate(28 58 43)"/><ellipse cx="73" cy="33" rx="7" ry="14" transform="rotate(38 73 33)"/></g>
+  <path d="M60 77c17-15 22-31 21-45" fill="none" stroke="#f7f1e8" stroke-width="5"/>
+</svg>

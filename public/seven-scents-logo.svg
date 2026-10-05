@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 440 150" role="img" aria-labelledby="title desc">
+  <title id="title">Seven Scents</title>
+  <desc id="desc">Seven Scents perfume bottle and botanical emblem with wordmark</desc>
+  <g fill="none" stroke="#f7f1e8" stroke-width="8">
+    <path d="M24 120V48C24 23 43 8 70 8s46 15 46 40v72"/>
+  </g>
+  <path fill="#f7f1e8" d="M50 120V91c0-10 8-18 18-18s18 8 18 18v29z"/>
+  <path fill="#f7f1e8" d="M63 69h10V59H63z"/>
+  <path fill="#ec6137" d="M72 59c-2-15 7-27 17-31 3 12-1 24-17 31z"/>
+  <g fill="#f7f1e8">
+    <ellipse cx="52" cy="49" rx="6" ry="12" transform="rotate(-38 52 49)"/>
+    <ellipse cx="65" cy="37" rx="6" ry="12" transform="rotate(28 65 37)"/>
+    <ellipse cx="78" cy="29" rx="6" ry="12" transform="rotate(38 78 29)"/>
+  </g>
+  <path d="M69 65c15-13 19-27 18-39" fill="none" stroke="#f7f1e8" stroke-width="4"/>
+  <text x="142" y="83" fill="#f7f1e8" font-family="Georgia, serif" font-size="67" letter-spacing="2">SEVEN</text>
+  <text x="230" y="119" fill="#f7f1e8" font-family="Arial, sans-serif" font-size="20" letter-spacing="17">SCENTS</text>
+</svg>
